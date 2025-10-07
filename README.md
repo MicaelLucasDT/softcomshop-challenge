@@ -10,7 +10,7 @@ Sou uma pessoa dedicada, com sede de aprendizado, focado, direto e organizado.
 
 ---
 
-## 🧪 Tecnologias que utilizo
+## 🧪 Tecnologias que utilizei no projeto a seguir
 
 - PHP
 - JavaScript
