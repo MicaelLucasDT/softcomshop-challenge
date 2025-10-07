@@ -57,7 +57,7 @@ Sistema web para controle de propriedades, contratos de aluguel, contas a recebe
 ![Cadastro de Propriedades](prints/cadastros_de_propriedades.png)
 
 ### 📝 Tela de Cadastro da Propriedade
-![Tela de cadastro de Propriedades](prints/tela_de_cadastro_da_propriedade.png)
+![Formulário de cadastro para Propriedades](prints/tela_de_cadastro_da_propriedade.png)
 
 ### 👓 Detalhes do Cliente
 ![Tela de detalhes do cliente](prints/detalhes_do_cliente.png)
