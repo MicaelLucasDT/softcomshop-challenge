@@ -50,10 +50,10 @@ Sistema web para controle de propriedades, contratos de aluguel, contas a recebe
 ### 🔔 Notificações
 ![Notificações](prints/notificacoes.png)
 
-### 👤 Usuários cadastrados
+### 👤 Usuários Cadastrados
 ![Cadastro de Usuários](prints/cadastro_de_usuarios.png)
 
-### 🏠 Propriedades cadastradas
+### 🏠 Propriedades Cadastradas
 ![Cadastro de Propriedades](prints/cadastros_de_propriedades.png)
 
 ### 📝 Formulário de Cadastro para Propriedade
