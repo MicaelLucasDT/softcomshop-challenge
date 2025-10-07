@@ -38,18 +38,42 @@ Sistema web para controle de propriedades, contratos de aluguel, contas a recebe
 
 📸 Prints do sistema:
 
-- ![Tela de Login](prints/tela_de_login.png)
-- ![Dashboard](prints/dashboard.png)
-- ![Menu Lateral](prints/menu_lateral.png)
-- ![Notificações](notificacoes.png)
-- ![Cadastro de Usuários](prints/cadastro_de_usuarios.png)
-- ![Cadastro de Propriedades](prints/cadastros_de_propriedades.png)
-- ![Tela de cadastro de Propriedades](prints/tela_de_cadastro_da_propriedade.png)
-- ![Tela de detalhes do cliente](prints/detalhes_do_cliente.png)
-- ![Contas a Receber](prints/tela_contas_a_receber.png)
-- ![Tipos de Contrato](prints/tipos_de_contratos.png)
-- ![Gerador de Parcelas para alguéis](prints/gerador_de_parcelas_aluguel.png)
-- ![Gerador de Backups](prints/gerador_de_backups.png)
+### 🔐 Tela de Login
+![Tela de Login](prints/tela_de_login.png)
+
+### 🧭 Dashboard (Tela Principal)
+![Dashboard](prints/dashboard.png)
+
+### 📑 Menu Lateral
+![Menu Lateral](prints/menu_lateral.png)
+
+### 🔔 Notificações de Aluguéis
+![Notificações](prints/notificacoes.png)
+
+### 👤 Cadastro de Usuários
+![Cadastro de Usuários](prints/cadastro_de_usuarios.png)
+
+### 🏠 Cadastro de Propriedades
+![Cadastro de Propriedades](prints/cadastros_de_propriedades.png)
+
+### 📝 Tela de Cadastro da Propriedade
+![Tela de cadastro de Propriedades](prints/tela_de_cadastro_da_propriedade.png)
+
+### 👓 Detalhes do Cliente
+![Tela de detalhes do cliente](prints/detalhes_do_cliente.png)
+
+### 💰 Contas a Receber
+![Contas a Receber](prints/tela_contas_a_receber.png)
+
+### 📄 Tipos de Contrato
+![Tipos de Contrato](prints/tipos_de_contratos.png)
+
+### 📆 Gerador de Parcelas de Aluguel
+![Gerador de Parcelas para Aluguéis](prints/gerador_de_parcelas_aluguel.png)
+
+### 🛡️ Gerador de Backups
+![Gerador de Backups](prints/gerador_de_backups.png)
+
 
 ---
 
