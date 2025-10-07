@@ -22,7 +22,7 @@ Sou uma pessoa dedicada, com sede de aprendizado, focado, direto e organizado.
 
 ---
 
-## 📂 Projetos Desenvolvidos
+## 📂 Um dos Projetos Desenvolvidos por mim
 
 ### 🏠 Sistema de Gestão de Propriedades
 
