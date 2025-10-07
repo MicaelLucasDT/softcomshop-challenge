@@ -47,7 +47,7 @@ Sistema web para controle de propriedades, contratos de aluguel, contas a recebe
 ### 📑 Menu Lateral
 ![Menu Lateral](prints/menu_lateral.png)
 
-### 🔔 Notificações de Aluguéis
+### 🔔 Notificações
 ![Notificações](prints/notificacoes.png)
 
 ### 👤 Cadastro de Usuários
